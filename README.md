@@ -17,7 +17,7 @@ Sprunked 2 is an exciting online game offering a unique and engaging experience.
 
 ## What is Sprunked 2? <a name="what-is-sprunked-2"></a>
 
-Sprunked 2 expands upon the original gameplay with new challenges and exciting features. While enjoying Sprunked 2, you might also be interested in exploring other games within the Sprunki universe such as [ESprunki Game](https://esprunki-game.webflow.io/), [Sprunki Game](https://sprunki-game.webflow.io/), or [Sprunki Retake](https://sprunki-retake.webflow.io/). Each game offers a unique and entertaining experience.
+Sprunked 2 expands upon the original gameplay with new challenges and exciting features. While enjoying Sprunked 2, you might also be interested in exploring other games within the Sprunki universe such as [ESprunki](https://esprunki-game.webflow.io/), [Sprunki Game](https://sprunki-game.webflow.io/), or [Sprunki Retake](https://sprunki-retake.webflow.io/). Each game offers a unique and entertaining experience.
 
 
 ---
